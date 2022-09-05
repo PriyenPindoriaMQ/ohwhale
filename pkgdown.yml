@@ -1,0 +1,9 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles: {}
+last_built: 2022-09-05T23:40Z
+urls:
+  reference: https://priyenpindoriamq.github.io/ohwhale/reference
+  article: https://priyenpindoriamq.github.io/ohwhale/articles
+
